@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D University of Montreal (poly), Montreal, Canada, 2018-2022
+* M.E  Optical Engineering, Beijing University of Technology, China (2018)
+* B.E. Photoelectric Information Engineering, Shenzhen University, China (2014)
 
 Work experience
 ======
