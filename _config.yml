@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Erjun Zhang"
   avatar           : "profile_zhang.jpg"
-  bio              : "Biomedical Engineering Ph.D student"
+  bio              : "Biomedical Engineering Ph.D student at PolyMTL"
   location         : "Montreal, Canada"
-  employer         : "PolyMTL UdeM CHU Sainte-Justine" 
+  employer         :  
   pubmed           : 
   googlescholar    :
   email            : "erjun.zhang@polymtl.ca"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : 
   orcid            : # "http://orcid.org/zhangerjunxxx"
   pinterest        :
   soundcloud       :
@@ -111,11 +111,11 @@ author:
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
-  weibo            : "lzzhcy"
+  weibo            : "https://www.weibo.com/2294379734/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1"
   xing             :
   youtube          :
   wikipedia        :
-  wechat           : "lzzhcy"
+  wechat           : 
 
 
 # Reading Files
