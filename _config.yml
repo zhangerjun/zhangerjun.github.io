@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -84,9 +84,9 @@ author:
   avatar           : "profile_zhang.jpg"
   bio              : "Biomedical Engineering Ph.D student"
   location         : "Montreal, Canada"
-  employer         :
+  employer         : "CHU Sainte-Justine"
   pubmed           : 
-  googlescholar    : "http://zhangerjun.google.com"
+  googlescholar    : #"http://zhangerjun.google.com"
   email            : "erjun.zhang@polymtl.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/zhangerjunxxx"
+  orcid            : # "http://orcid.org/zhangerjunxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
