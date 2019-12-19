@@ -22,6 +22,12 @@ Projects
 * Models of smart windows
 * Super-resolution imaging algorithms, simulation and system building
   * Master Thesis
+  
+Work Experience
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Publications
 ======
