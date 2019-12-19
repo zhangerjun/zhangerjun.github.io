@@ -16,7 +16,7 @@ date: 2016-9 to 2017-1
 location: "Beijing, China"
 ---
 
-# This is a description of a teaching experience. You can use markdown like any other post.
+This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
