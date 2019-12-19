@@ -1,7 +1,7 @@
 ---
 title: "Lineral Algbra"
 collection: Teaching Assistant
-type: "Mathematical Courses for bachelor"
+type: "Undergaraduate course"
 venue: "Beijing University of Technology, Beijing-Dublin International College"
 date: 2016-9 to 2017-1
 location: "Beijing, China"
