@@ -16,14 +16,12 @@ Education
 * B.E. Photoelectric Information Engineering, Shenzhen University, China (2014)
 
   
-Skills
+Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Neonatal diffusion MR imaging
+* Models of smart windows
+* Super-resolution imaging algorithms, simulation and system building
+  * Master Thesis
 
 Publications
 ======
