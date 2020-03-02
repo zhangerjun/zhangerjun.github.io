@@ -87,8 +87,8 @@ author:
   employer         :  
   pubmed           : 
   googlescholar    :
-  email            : "erjun.zhang@polymtl.ca"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "erjun.zhang@polymtl.ca""erjun.zhang@foxmail.com"
+  researchgate     :  "https://www.researchgate.net/profile/Erjun_Zhang" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         : "https://ca.linkedin.com/in/zhangerjun/%7Bcountry%3Dus%2C+language%3Den%7D?trk=people-guest_profile-result-card_result-card_full-click"
   orcid            : # "http://orcid.org/zhangerjunxxx"
   pinterest        :
   soundcloud       :
