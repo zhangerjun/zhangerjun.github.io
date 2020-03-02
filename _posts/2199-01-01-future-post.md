@@ -5,5 +5,5 @@ permalink: /posts/2012/08/blog-post-4/
 tags:
   - MRI
   - Sequence
-download from: "https://docs.google.com/document/d/1vDrnPAdgZvEc9MJOuVZME0jlwwGLzr2mQymHRPtd17Y/edit?usp=sharing"
+download from: "https://drive.google.com/open?id=1vDrnPAdgZvEc9MJOuVZME0jlwwGLzr2mQymHRPtd17Y"
 ---
