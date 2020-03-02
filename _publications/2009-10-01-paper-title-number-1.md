@@ -3,7 +3,7 @@ title: "Improving thermo-optic properties of smart windows via coupling to radia
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2020-02-27
-venue: 'Preprint'
+venue: 'Febrary'
 paperurl: 'https://www.osapublishing.org/ao/upcoming_pdf.cfm?id=382050'
 citation: 'E. Zhang, Y. Cao, C. Caloz, M.A. Skorobogatiy "Improving thermo-optic properties of smart windows via coupling to radiative coolers," '
 ---
