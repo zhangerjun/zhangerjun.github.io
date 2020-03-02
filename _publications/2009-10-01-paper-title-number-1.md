@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Improving thermo-optic properties of smart windows via coupling to radiative coolers"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://www.osapublishing.org/ao/upcoming_pdf.cfm?id=382050'
+citation: 'E. Zhang, Y. Cao, C. Caloz, M.A. Skorobogatiy "Improving thermo-optic properties of smart windows via coupling to radiative coolers," '
 ---
-This paper is about the number 1. The number 2 is left for future work.
+[Download paper here](https://www.researchgate.net/profile/Maksim_Skorobogatiy/publication/337003802_IMPROVING_THERMO-OPTIC_PROPERTIES_OF_SMART_WINDOWS_VIA_COUPLING_TO_RADIATIVE_COOLERS/links/5dc42e83a6fdcc2d2ffb5714/IMPROVING-THERMO-OPTIC-PROPERTIES-OF-SMART-WINDOWS-VIA-COUPLING-TO-RADIATIVE-COOLERS.pdf)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: 
