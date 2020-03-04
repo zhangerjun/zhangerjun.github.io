@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://ca.linkedin.com/in/zhangerjun/%7Bcountry%3Dus%2C+language%3Den%7D?trk=people-guest_profile-result-card_result-card_full-click"
-  orcid            : # "http://orcid.org/zhangerjunxxx"
+  orcid            : "https://orcid.org/0000-0002-4659-1083" # "http://orcid.org/zhangerjunxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
