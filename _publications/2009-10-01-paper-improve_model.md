@@ -9,4 +9,3 @@ citation: 'E. Zhang, Y. Cao, C. Caloz, M.A. Skorobogatiy "Improving thermo-optic
 ---
 [Download paper here](https://doi.org/10.1364/ao.382050)
 
-Recommended citation: 
