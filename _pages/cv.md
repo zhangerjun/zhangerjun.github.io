@@ -35,4 +35,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
- 
+ Conferences
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
