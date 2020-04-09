@@ -1,2 +1,10 @@
-Head: DBSI Slides for BMDE 660
+---
+title: 'DBSI Slides for BMDE660'
+date: 2020-04-09
+permalink: /posts/2020/04/20200409_Slides_DBSI/
+tags:
+  - MRI
+  - Slides
+  
 link:
+---
