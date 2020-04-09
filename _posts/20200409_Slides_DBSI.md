@@ -1,10 +1,10 @@
 ---
 title: 'DBSI Slides for BMDE660'
 date: 2020-04-09
-permalink: /posts/2020/04/20200409_Slides_DBSI/
+permalink: /posts/2020/04/blog-post-2=4/
 tags:
   - MRI
   - Slides
   
-link:
+link:https://github.com/zhangerjun/zhangerjun.github.io/blob/master/files/DBSI.pdf
 ---
