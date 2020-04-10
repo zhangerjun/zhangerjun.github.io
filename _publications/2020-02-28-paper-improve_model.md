@@ -1,5 +1,5 @@
 ---
-title: "Improving thermo-optic properties of smart windows via coupling to radiative coolers"
+title: "Improving Thermo-optic Properties Of Smart Windows Via Coupling To Radiative Coolers"
 collection: publications
 permalink: /publication/2020-02-28-paper-improve_model
 date: 2020-02-28
