@@ -1,5 +1,5 @@
 ---
-title: "Simple Models For The Operation Of Partially Transparent Radiative Windows And Their Comparison To Radiative Coolers"
+title: 'Simple Models For The Operation Of Partically Transparent Radiative Windows And Their Comparison To Radiative Coolers'
 collection: publications
 permalink: /publication/2019-04-08-paper-simple_model
 date: 2019-04-08
